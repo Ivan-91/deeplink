@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "622V589PZY.ru.nalunch.app",
+        "paths": [
+            "/payments/customer/invoice/*"
+        ]
+      }
+    ]
+  }
+}
